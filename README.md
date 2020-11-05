@@ -1,8 +1,7 @@
-# perso_vue
+# Bonjour !
 
-> A Vue.js project
-
-## Build Setup
+Si tu lis ceci, c'est que tu es curieux à propos de mon site perso.
+Si tu veux le tester en local :
 
 ``` bash
 # install dependencies
@@ -10,12 +9,5 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Pour la version live, c'est par ici [florian-lehuede.com](http://florian-lehuede.com) 
