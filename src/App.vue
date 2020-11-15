@@ -13,10 +13,10 @@
           <font-awesome-icon icon="code" /> <br>
           <span>Compétences</span>
         </router-link></li>
-        <li><router-link to="Realisations">
+        <!-- <li><router-link to="Realisations">
           <font-awesome-icon icon="laptop" /> <br>
           <span>Réalisations</span>
-        </router-link></li>
+        </router-link></li> -->
         <li><router-link to="Parcours">
           <font-awesome-icon icon="school" /><br>
           <span>Parcours</span>
@@ -54,7 +54,6 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
   height: 100vh;
   overflow: hidden;
 }

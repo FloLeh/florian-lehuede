@@ -1,12 +1,10 @@
 <template>
   <div class="comp">
     <div class="left">
-      <h1>TECHNO</h1>
-      <h2>Voici quelques exemples de <b>technologies</b> sur lesquelles je travaille actuellement :</h2>
-
-      <p>Je suis en constant apprentissage et le serai durant toute ma carrière de développeur.</p>
+      <h1>DYNAMIQUE</h1>
+      <h2>Voici quelques exemples de technologies que j'utilise pour créer des sites et applications <b>dynamiques</b> et <b>intéractives</b> : </h2>
       <hr>
-      <p>C'est pourquoi je reste informé des nouvelles sorties concernant les langages et frameworks qui m'intéressent.</p>
+      <p>Je reste informé des nouvelles sorties concernant les langages et frameworks qui m'intéressent.</p>
       
     </div>
     <div class="skills">
@@ -50,7 +48,7 @@ export default {
     color: #f52e55;
     opacity: 0.2;
     position: absolute;
-    font-size: 270px;
+    font-size: 11vw;
     z-index: 0;
     transform: translateY(-100px) translateX(20px);
     font-weight: bold;
@@ -66,7 +64,7 @@ export default {
   }
 
   .comp .left p {
-   text-align: justify;
+   text-align: center;
    padding: 20px 120px;
    margin: 0;
    font-size: 1.1rem;

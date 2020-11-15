@@ -4,7 +4,7 @@ import Presentation from '@/components/Presentation'
 import Competences from '@/components/Competences'
 import Parcours from '@/components/Parcours'
 import Contact from '@/components/Contact'
-import Realisations from '@/components/Realisations'
+// import Realisations from '@/components/Realisations'
 
 Vue.use(Router)
 
@@ -20,11 +20,11 @@ export default new Router({
       name: 'Competences',
       component: Competences
     },
-    {
-      path: '/realisations',
-      name: 'Realistations',
-      component: Realisations
-    },
+    // {
+    //   path: '/realisations',
+    //   name: 'Realistations',
+    //   component: Realisations
+    // },
     {
       path: '/parcours',
       name: 'Parcours',
